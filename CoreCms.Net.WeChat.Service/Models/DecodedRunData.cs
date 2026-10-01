@@ -30,3 +30,5 @@ namespace CoreCms.Net.WeChat.Service.Models
         public long step { get; set; }
     }
 }
+
+// fe6645

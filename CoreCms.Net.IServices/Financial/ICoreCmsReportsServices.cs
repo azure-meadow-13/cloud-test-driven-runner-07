@@ -98,3 +98,4 @@ namespace CoreCms.Net.IServices
             int pageIndex = 1, int pageSize = 5000);
     }
 }
+// 6878da

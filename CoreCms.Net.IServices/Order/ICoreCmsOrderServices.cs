@@ -302,3 +302,4 @@ namespace CoreCms.Net.IServices
             int pageSize = 20, bool blUseNoLock = false);
     }
 }
+// 06a633

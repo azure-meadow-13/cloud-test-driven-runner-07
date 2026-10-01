@@ -36,3 +36,4 @@ namespace CoreCms.Net.IServices
         Task<WebApiCallBack> CloseTip(int userId);
     }
 }
+// 88b761

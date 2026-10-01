@@ -141,3 +141,4 @@
 <style lang="scss" scoped>
     @import "list.scss";
 </style>
+

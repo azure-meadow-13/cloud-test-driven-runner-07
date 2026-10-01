@@ -63,3 +63,5 @@ namespace CoreCms.Net.Auth.Policys
 
     }
 }
+
+// 706d0c

@@ -126,3 +126,4 @@ namespace CoreCms.Net.Model.Entities
         public string Store { get; set; } = "";
     }
 }
+// d13325

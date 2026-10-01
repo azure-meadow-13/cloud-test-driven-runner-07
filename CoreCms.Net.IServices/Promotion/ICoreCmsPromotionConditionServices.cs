@@ -102,3 +102,4 @@ namespace CoreCms.Net.IServices
         Task<int> condition_USER_GRADE(JObject parameters, int userId);
     }
 }
+// 420603

@@ -57,3 +57,4 @@ namespace CoreCms.Net.IServices
         Task<WebApiCallBack> ToAdd(int userId, int goodsId);
     }
 }
+// 4ca57b

@@ -54,3 +54,4 @@ namespace CoreCms.Net.Model.Entities
         public System.String parameters { get; set; }
     }
 }
+// 83e7bc

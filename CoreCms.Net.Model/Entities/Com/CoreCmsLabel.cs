@@ -48,3 +48,4 @@ namespace CoreCms.Net.Model.Entities
         public System.String style { get; set; }
     }
 }
+// 0cab51

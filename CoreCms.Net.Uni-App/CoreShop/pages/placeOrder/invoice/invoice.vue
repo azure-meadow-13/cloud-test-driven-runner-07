@@ -215,3 +215,4 @@
 <style scoped lang="scss">
     @import "invoice.scss";
 </style>
+

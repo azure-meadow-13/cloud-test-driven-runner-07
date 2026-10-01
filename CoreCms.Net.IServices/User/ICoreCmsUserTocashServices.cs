@@ -69,3 +69,4 @@ namespace CoreCms.Net.IServices
         #endregion
     }
 }
+// b7cbac

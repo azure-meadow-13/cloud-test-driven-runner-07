@@ -47,3 +47,4 @@ namespace CoreCms.Net.IRepository
             bool blUseNoLock = false);
     }
 }
+// be13a8

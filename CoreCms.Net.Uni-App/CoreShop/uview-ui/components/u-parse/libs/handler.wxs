@@ -20,3 +20,4 @@ module.exports = {
 		return !item.c && !inline[item.name] && (item.attrs.style || '').indexOf('display:inline') == -1
 	}
 }
+

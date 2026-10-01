@@ -72,3 +72,5 @@ namespace CoreCms.Net.IRepository
             int pageSize = 20, bool blUseNoLock = false);
     }
 }
+
+// c11022

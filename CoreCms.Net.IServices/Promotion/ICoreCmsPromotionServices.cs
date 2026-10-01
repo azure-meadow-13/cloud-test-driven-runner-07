@@ -83,3 +83,4 @@ namespace CoreCms.Net.IServices
         Task<WebApiCallBack> ReceiveCoupon(int promotionId);
     }
 }
+// afb796

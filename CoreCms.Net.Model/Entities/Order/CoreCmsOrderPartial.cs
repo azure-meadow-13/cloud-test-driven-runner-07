@@ -228,3 +228,4 @@ namespace CoreCms.Net.Model.Entities
         public string userNickName { get; set; }
     }
 }
+// 45b6e9

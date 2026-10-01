@@ -142,3 +142,5 @@ function getLodop(oOBJECT, oEMBED) {
         alert("getLodop出错:" + err);
     }
 }
+
+// 1fa501

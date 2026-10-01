@@ -288,3 +288,4 @@ export default {
 	padding-right: 50rpx;
 }
 </style>
+

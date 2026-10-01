@@ -129,3 +129,5 @@ namespace CoreCms.Net.Model.Entities
 
     }
 }
+
+// c03622

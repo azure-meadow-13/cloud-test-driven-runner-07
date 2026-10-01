@@ -571,3 +571,5 @@ namespace CoreCms.Net.Configuration
 
     }
 }
+
+// 6452a5

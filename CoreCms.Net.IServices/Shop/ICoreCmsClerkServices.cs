@@ -55,3 +55,4 @@ namespace CoreCms.Net.IServices
             bool blUseNoLock = false);
     }
 }
+// 898212

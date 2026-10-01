@@ -95,3 +95,5 @@ namespace CoreCms.Net.IRepository
         Task<decimal> QueryChildOrderMoneySumAsync(int parentId, int type = 1, bool thisMonth = false);
     }
 }
+
+// 18f9dd

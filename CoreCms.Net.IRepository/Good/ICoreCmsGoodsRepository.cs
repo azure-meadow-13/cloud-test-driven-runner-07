@@ -169,3 +169,4 @@ namespace CoreCms.Net.IRepository
         Task<List<EnumEntity>> QueryEnumEntityAsync();
     }
 }
+// c184e1

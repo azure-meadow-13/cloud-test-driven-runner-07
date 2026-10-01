@@ -57,3 +57,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Int32 frequency { get; set; }
     }
 }
+// 7abde2

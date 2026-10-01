@@ -48,3 +48,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Boolean isSwitch { get; set; }
     }
 }
+// 861f09

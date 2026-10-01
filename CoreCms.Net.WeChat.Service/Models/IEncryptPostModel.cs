@@ -42,3 +42,5 @@ namespace CoreCms.Net.WeChat.Service.Models
         string EncodingAESKey { get; set; }
     }
 }
+
+// d74a28

@@ -56,3 +56,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO
         public int ischecked { get; set; }
     }
 }
+// b669d8

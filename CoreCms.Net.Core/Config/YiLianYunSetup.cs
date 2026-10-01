@@ -32,3 +32,5 @@ namespace CoreCms.Net.Core.Config
         }
     }
 }
+
+// 434f04

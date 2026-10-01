@@ -46,3 +46,4 @@ namespace CoreCms.Net.Model.ViewModels.UI
         public object list { get; set; }
     }
 }
+// c85e68

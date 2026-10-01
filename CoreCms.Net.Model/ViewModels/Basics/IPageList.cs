@@ -22,3 +22,4 @@ namespace CoreCms.Net.Model.ViewModels.Basics
         bool HasNextPage { get; }
     }
 }
+// 54784f

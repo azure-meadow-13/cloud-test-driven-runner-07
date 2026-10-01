@@ -36,3 +36,5 @@ namespace CoreCms.Net.WeChat.Service.Models
         public string countryCode { get; set; }
     }
 }
+
+// ac53f8

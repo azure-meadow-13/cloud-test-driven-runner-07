@@ -36,3 +36,4 @@ namespace CoreCms.Net.IServices
         Task<WebApiCallBack> LogDelete(int id, int userId = 0);
     }
 }
+// 1ad1d9

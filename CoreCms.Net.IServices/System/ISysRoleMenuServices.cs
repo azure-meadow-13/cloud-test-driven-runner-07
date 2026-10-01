@@ -22,3 +22,4 @@ namespace CoreCms.Net.IServices
         Task<List<SysRoleMenu>> RoleModuleMaps();
     }
 }
+// 6d4fa5

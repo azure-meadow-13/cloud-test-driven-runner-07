@@ -124,3 +124,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Decimal distance { get; set; }
     }
 }
+// 42b6fa

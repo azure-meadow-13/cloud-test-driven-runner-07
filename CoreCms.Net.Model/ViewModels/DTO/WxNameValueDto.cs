@@ -21,3 +21,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO
         public string value { get; set; }
     }
 }
+// a3fc2b

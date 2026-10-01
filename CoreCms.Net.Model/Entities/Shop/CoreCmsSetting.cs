@@ -41,3 +41,4 @@ namespace CoreCms.Net.Model.Entities
         public System.String sValue { get; set; }
     }
 }
+// 2382ab

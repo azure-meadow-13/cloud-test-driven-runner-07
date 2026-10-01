@@ -124,3 +124,4 @@
 <style scoped lang="scss">
     @import "sharePoster.scss";
 </style>
+

@@ -104,3 +104,4 @@ namespace CoreCms.Net.Model.Entities
         public System.DateTime endTime { get; set; }
     }
 }
+// b6a887

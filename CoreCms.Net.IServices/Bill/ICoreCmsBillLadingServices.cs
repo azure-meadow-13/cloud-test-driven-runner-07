@@ -57,3 +57,4 @@ namespace CoreCms.Net.IServices
         Task<WebApiCallBack> GetInfo(string id, int userId = 0);
     }
 }
+// 2f8fd4

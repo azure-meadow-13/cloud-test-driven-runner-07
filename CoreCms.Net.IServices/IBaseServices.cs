@@ -817,3 +817,4 @@ namespace CoreCms.Net.IServices
         Task<List<T>> SqlQueryable(string sql);
     }
 }
+// e6ac44

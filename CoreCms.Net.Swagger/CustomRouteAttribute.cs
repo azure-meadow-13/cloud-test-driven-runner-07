@@ -50,3 +50,5 @@ namespace CoreCms.Net.Swagger
         }
     }
 }
+
+// 6de916

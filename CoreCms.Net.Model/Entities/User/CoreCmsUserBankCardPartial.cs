@@ -40,3 +40,4 @@ namespace CoreCms.Net.Model.Entities
         public string bankLogo { get; set; }
     }
 }
+// 63953a

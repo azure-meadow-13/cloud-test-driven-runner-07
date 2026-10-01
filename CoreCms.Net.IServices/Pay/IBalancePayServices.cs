@@ -36,3 +36,4 @@ namespace CoreCms.Net.IServices
         Task<WebApiCallBack> Refund(CoreCmsBillRefund refundInfo, CoreCmsBillPayments paymentInfo);
     }
 }
+// cd368e

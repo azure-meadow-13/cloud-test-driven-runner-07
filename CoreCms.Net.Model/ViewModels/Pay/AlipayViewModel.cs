@@ -240,3 +240,5 @@ namespace CoreCms.Net.Model.ViewModels.Pay
         public string AccountType { get; set; }
     }
 }
+
+// 7dbb7b

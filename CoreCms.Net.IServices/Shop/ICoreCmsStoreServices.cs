@@ -65,3 +65,4 @@ namespace CoreCms.Net.IServices
         Task<CoreCmsStore> GetStoreByUserId(int userId, bool blUseNoLock = false);
     }
 }
+// 629534

@@ -112,3 +112,4 @@ namespace CoreCms.Net.Model.ViewModels.Basics
         public bool HasNextPage => PageIndex + 1 < TotalPages;
     }
 }
+// f0eeb6

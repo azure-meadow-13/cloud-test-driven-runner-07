@@ -33,3 +33,4 @@ namespace CoreCms.Net.Model.Entities
         public string avatarImage { get; set; }
     }
 }
+// 35df8b

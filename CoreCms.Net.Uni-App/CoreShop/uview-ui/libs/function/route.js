@@ -120,3 +120,4 @@ class Router {
 }
 
 export default (new Router()).route
+// 577225

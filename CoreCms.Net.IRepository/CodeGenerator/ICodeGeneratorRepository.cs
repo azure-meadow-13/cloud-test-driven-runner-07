@@ -45,3 +45,4 @@ namespace CoreCms.Net.IRepository
         byte[] CodeGenByAll(string fileType);
     }
 }
+// cd1688

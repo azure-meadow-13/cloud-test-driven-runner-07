@@ -45,3 +45,4 @@ namespace CoreCms.Net.IServices
         byte[] CodeGenByAll(string fileType);
     }
 }
+// 3b2b0e

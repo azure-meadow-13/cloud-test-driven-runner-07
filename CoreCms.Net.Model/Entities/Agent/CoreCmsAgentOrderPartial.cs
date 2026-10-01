@@ -35,3 +35,5 @@ namespace CoreCms.Net.Model.Entities
 
     }
 }
+
+// d7fccb

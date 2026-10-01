@@ -159,3 +159,4 @@ namespace CoreCms.Net.Model.Entities
         [SugarColumn(IsIgnore = true)] public int groupTimestamp { get; set; }
     }
 }
+// 0d75dd

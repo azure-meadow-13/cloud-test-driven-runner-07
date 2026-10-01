@@ -131,3 +131,4 @@
 <style lang="scss" scoped>
     @import "shareLog.scss";
 </style>
+

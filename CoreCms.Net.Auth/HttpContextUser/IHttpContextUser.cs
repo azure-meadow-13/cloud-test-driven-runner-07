@@ -27,3 +27,5 @@ namespace CoreCms.Net.Auth.HttpContextUser
         List<string> GetUserInfoFromToken(string ClaimType);
     }
 }
+
+// 487cbb

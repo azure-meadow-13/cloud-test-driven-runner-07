@@ -35,3 +35,4 @@ namespace CoreCms.Net.IRepository
         new Task<AdminUiCallBack> UpdateAsync(CoreCmsUserShip entity);
     }
 }
+// cff760

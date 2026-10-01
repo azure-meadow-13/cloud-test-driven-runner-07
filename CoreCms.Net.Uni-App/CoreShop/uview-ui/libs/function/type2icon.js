@@ -33,3 +33,5 @@ function type2icon(type = 'success', fill = false) {
 }
 
 export default type2icon
+
+// 726a81

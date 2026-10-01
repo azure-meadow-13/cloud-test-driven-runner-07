@@ -34,3 +34,4 @@ namespace CoreCms.Net.Model.Entities
         public SysRole role { get; set; }
     }
 }
+// 3801cd

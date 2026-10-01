@@ -29,3 +29,4 @@ namespace CoreCms.Net.Model.ViewModels.Basics
         public string Error { get; set; }
     }
 }
+// c76102

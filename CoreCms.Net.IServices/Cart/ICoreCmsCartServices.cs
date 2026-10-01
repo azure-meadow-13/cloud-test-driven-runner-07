@@ -141,3 +141,4 @@ namespace CoreCms.Net.IServices
         Task<WebApiCallBack> GetCartAvailableCoupon(int userId, int[] ids = null);
     }
 }
+// c1b6f1

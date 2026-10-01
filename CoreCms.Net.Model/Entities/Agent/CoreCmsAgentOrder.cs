@@ -89,3 +89,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Boolean isDelete { get; set; }
     }
 }
+// 11d7e7

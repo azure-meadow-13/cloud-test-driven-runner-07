@@ -53,3 +53,5 @@ namespace CoreCms.Net.IServices
         Task<WebApiCallBack> Sign(int userId);
     }
 }
+
+// 6e465d

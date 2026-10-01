@@ -841,3 +841,4 @@
 <style lang="scss">
     .buyBtn { height: 74rpx; width: 90%; }
 </style>
+

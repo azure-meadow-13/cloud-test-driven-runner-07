@@ -433,3 +433,5 @@ namespace CoreCms.Net.Repository
 
     }
 }
+
+// bc9782

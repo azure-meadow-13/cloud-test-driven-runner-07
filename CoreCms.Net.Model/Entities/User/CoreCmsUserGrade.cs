@@ -49,3 +49,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Boolean isDefault { get; set; }
     }
 }
+// 9e5bbc

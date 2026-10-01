@@ -47,3 +47,4 @@ namespace CoreCms.Net.Model.ViewModels.LogInfo
         public string Week { get; set; }
     }
 }
+// f4f6b7

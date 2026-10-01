@@ -27,3 +27,5 @@ namespace CoreCms.Net.Core.Config
         }
     }
 }
+
+// e77a41

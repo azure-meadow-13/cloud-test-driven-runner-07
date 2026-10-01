@@ -150,3 +150,4 @@ namespace CoreCms.Net.Model.FromBody
         public string status { get; set; }
     }
 }
+// a06f97

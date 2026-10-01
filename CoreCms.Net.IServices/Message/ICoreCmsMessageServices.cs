@@ -46,3 +46,4 @@ namespace CoreCms.Net.IServices
         Task<bool> HasNew(int userId);
     }
 }
+// 5a0a92

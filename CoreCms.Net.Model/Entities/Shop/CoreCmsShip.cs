@@ -152,3 +152,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Decimal goodsMoney { get; set; }
     }
 }
+// 6bc1c0

@@ -26,3 +26,4 @@ namespace CoreCms.Net.IRepository
         int GetaftersalesNums(string orderId, string sn);
     }
 }
+// 675227

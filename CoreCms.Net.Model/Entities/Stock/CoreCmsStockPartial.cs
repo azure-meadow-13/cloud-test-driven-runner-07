@@ -26,3 +26,4 @@ namespace CoreCms.Net.Model.Entities
         public string managerName { get; set; }
     }
 }
+// 048cef

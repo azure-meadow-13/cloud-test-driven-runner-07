@@ -230,3 +230,5 @@ export default {
 	array,
 	code
 }
+
+// 7a01d6

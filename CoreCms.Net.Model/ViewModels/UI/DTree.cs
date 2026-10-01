@@ -96,3 +96,4 @@ namespace CoreCms.Net.Model.ViewModels.UI
         public string parentId { get; set; }
     }
 }
+// e02fc5

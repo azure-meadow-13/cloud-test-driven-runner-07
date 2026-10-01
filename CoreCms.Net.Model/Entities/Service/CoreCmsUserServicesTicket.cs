@@ -117,3 +117,4 @@ namespace CoreCms.Net.Model.Entities
         public System.DateTime? verificationTime { get; set; }
     }
 }
+// 081fd9

@@ -139,3 +139,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Int32 effectiveHours { get; set; }
     }
 }
+// f0d140

@@ -44,3 +44,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO
         public string message { get; set; }
     }
 }
+// 7fe5b7

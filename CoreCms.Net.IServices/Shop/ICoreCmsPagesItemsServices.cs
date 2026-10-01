@@ -19,3 +19,4 @@ namespace CoreCms.Net.IServices
     {
     }
 }
+// 0582c4

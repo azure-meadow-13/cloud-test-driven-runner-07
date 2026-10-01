@@ -32,3 +32,4 @@ namespace CoreCms.Net.IServices
         Task<WebApiCallBack> SetTip(int userId, string templateId, string status);
     }
 }
+// c6f286

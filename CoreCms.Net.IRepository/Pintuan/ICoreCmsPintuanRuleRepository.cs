@@ -55,3 +55,4 @@ namespace CoreCms.Net.IRepository
         Task<TagPinTuanResult> GetPinTuanInfo(int goodId);
     }
 }
+// acfe69

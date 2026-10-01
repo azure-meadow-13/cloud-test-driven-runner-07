@@ -66,3 +66,5 @@ namespace CoreCms.Net.WeChat.Service.Utilities
         }
     }
 }
+
+// 36cf46

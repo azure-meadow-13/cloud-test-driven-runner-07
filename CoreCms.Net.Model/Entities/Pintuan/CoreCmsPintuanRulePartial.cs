@@ -42,3 +42,4 @@ namespace CoreCms.Net.Model.Entities
         public int lastTime { get; set; }
     }
 }
+// e2a2a3

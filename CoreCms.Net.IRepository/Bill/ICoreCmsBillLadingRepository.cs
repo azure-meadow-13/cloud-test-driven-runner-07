@@ -26,3 +26,4 @@ namespace CoreCms.Net.IRepository
         Task<WebApiCallBack> AddData(string orderId, int storeId, string name, string mobile);
     }
 }
+// e2ce97

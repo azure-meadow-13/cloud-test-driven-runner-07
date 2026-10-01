@@ -139,3 +139,4 @@ const install = Vue => {
 export default {
 	install
 }
+// 6343a8

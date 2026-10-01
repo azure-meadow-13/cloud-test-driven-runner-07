@@ -16,3 +16,5 @@ namespace CoreCms.Net.Utility.Helper
 
     }
 }
+
+// 7449bc

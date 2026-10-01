@@ -71,3 +71,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Int32 sortId { get; set; }
     }
 }
+// 9be8df

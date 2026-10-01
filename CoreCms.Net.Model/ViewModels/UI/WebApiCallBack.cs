@@ -47,3 +47,4 @@ namespace CoreCms.Net.Model.ViewModels.UI
         public int code { get; set; } = 0;
     }
 }
+// 64e363

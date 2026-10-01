@@ -72,3 +72,5 @@ namespace CoreCms.Net.Utility.Helper
         #endregion
     }
 }
+
+// 00b48d

@@ -82,3 +82,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Boolean isEnable { get; set; }
     }
 }
+// a4e9c2

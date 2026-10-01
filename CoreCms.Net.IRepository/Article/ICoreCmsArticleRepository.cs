@@ -44,3 +44,4 @@ namespace CoreCms.Net.IRepository
             int pageSize = 20);
     }
 }
+// 9a0a5f

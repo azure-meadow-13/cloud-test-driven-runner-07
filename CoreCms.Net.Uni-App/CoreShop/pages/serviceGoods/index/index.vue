@@ -128,3 +128,4 @@
         .order .bottom2 .coreshop-btn { line-height: 52rpx; width: 160rpx; border-radius: 26rpx; border: 2rpx solid $u-border-color; font-size: 26rpx; text-align: center; color: $u-type-info-dark; }
         .order .bottom2 .evaluate { color: $u-type-warning-dark; border-color: $u-type-warning-dark; }
 </style>
+

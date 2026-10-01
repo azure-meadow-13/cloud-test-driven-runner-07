@@ -25,3 +25,4 @@ namespace CoreCms.Net.Model.Entities
         public List<CoreCmsGoodsTypeSpecValue> specValues { get; set; } = new();
     }
 }
+// 4b31bf

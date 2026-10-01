@@ -214,3 +214,4 @@
 <style lang="scss">
     .coreshop-avatar { background: #fff; }
 </style>
+

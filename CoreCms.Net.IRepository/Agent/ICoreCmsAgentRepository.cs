@@ -60,3 +60,4 @@ namespace CoreCms.Net.IRepository
         Task<IPageList<AgentRankingDTO>> QueryRankingPageAsync(int pageIndex = 1, int pageSize = 20);
     }
 }
+// dafd80

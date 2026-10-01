@@ -67,3 +67,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Int32? type { get; set; }
     }
 }
+// a01688

@@ -210,3 +210,4 @@
 <style lang="scss" scoped>
     @import "team.scss";
 </style>
+

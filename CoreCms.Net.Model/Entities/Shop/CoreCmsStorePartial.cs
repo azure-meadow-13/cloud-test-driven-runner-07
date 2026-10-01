@@ -33,3 +33,4 @@ namespace CoreCms.Net.Model.Entities
         public string distanceStr { get; set; }
     }
 }
+// 9cab4f

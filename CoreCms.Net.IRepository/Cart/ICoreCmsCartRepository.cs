@@ -25,3 +25,4 @@ namespace CoreCms.Net.IRepository
         Task<int> GetCountAsync(int userId);
     }
 }
+// 7fb8a6

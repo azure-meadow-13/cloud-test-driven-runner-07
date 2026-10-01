@@ -1263,3 +1263,5 @@
 	return WeCropper;
 
 })));
+
+// 92f198

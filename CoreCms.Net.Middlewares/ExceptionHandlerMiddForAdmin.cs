@@ -70,3 +70,5 @@ namespace CoreCms.Net.Middlewares
         }
     }
 }
+
+// 43a41f

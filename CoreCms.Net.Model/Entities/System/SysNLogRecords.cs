@@ -129,3 +129,4 @@ namespace CoreCms.Net.Model.Entities
         public System.String NetUserIdentity { get; set; }
     }
 }
+// 57dde9

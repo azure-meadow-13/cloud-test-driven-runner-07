@@ -25,3 +25,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO
         public int reshipedNums { get; set; } = 0;
     }
 }
+// a0301d

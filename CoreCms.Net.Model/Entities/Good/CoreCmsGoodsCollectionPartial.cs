@@ -26,3 +26,4 @@ namespace CoreCms.Net.Model.Entities
         public CoreCmsGoods goods { get; set; }
     }
 }
+// e2b30a

@@ -74,3 +74,4 @@ namespace CoreCms.Net.IRepository
         #endregion
     }
 }
+// 690665

@@ -55,3 +55,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Decimal gradePrice { get; set; }
     }
 }
+// 612dfb

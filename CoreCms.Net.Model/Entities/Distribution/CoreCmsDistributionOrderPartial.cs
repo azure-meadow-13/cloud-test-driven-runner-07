@@ -33,3 +33,4 @@ namespace CoreCms.Net.Model.Entities
         public string distributorName { get; set; }
     }
 }
+// d546df

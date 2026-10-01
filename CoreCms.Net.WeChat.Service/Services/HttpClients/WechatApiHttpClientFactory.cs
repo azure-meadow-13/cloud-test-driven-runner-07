@@ -97,3 +97,5 @@ namespace CoreCms.Net.WeChat.Service.HttpClients
         }
     }
 }
+
+// 3fe741

@@ -70,3 +70,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Boolean isWxTempletMessage { get; set; }
     }
 }
+// eee8a0

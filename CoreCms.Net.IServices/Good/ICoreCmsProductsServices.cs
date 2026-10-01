@@ -82,3 +82,4 @@ namespace CoreCms.Net.IServices
         Task<List<CoreCmsProducts>> GetProducts(int goodId = 0);
     }
 }
+// 86dbfb

@@ -822,3 +822,4 @@ namespace CoreCms.Net.IRepository
         Task<List<T>> SqlQueryable(string sql);
     }
 }
+// 8f45db

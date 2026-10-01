@@ -32,3 +32,4 @@ namespace CoreCms.Net.Model.ViewModels.Echarts
         public int num { get; set; }
     }
 }
+// 50d3d5

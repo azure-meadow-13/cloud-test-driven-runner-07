@@ -54,3 +54,4 @@ namespace CoreCms.Net.Model.ViewModels.Basics
         public string sDescription { get; set; }
     }
 }
+// a5abeb

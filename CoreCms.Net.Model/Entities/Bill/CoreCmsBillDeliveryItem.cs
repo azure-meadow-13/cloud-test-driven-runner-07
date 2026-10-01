@@ -162,3 +162,5 @@ namespace CoreCms.Net.Model.Entities
 		
     }
 }
+
+// cfd6be

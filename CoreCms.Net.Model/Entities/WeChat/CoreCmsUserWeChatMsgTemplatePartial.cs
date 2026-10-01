@@ -24,3 +24,4 @@ namespace CoreCms.Net.Model.Entities
         public bool @is { get; set; }
     }
 }
+// d724df

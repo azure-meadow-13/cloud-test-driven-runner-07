@@ -37,3 +37,4 @@ namespace CoreCms.Net.Model.FromBody
         public int productId { get; set; } = 0;
     }
 }
+// d9512a

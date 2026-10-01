@@ -26,3 +26,4 @@ namespace CoreCms.Net.IServices
         WebApiCallBack PubPay(CoreCmsBillPayments entity);
     }
 }
+// c1d737

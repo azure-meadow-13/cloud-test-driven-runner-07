@@ -70,3 +70,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Boolean isdel { get; set; }
     }
 }
+// 0286fc

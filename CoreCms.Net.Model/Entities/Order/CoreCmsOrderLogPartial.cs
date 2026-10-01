@@ -24,3 +24,4 @@ namespace CoreCms.Net.Model.Entities
         public string typeText { get; set; }
     }
 }
+// c54be3

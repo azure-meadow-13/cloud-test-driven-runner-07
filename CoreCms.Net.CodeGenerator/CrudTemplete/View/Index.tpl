@@ -393,3 +393,4 @@
     <input type="checkbox" name="switch_{{field.DbColumnName}}" value="{% raw %}{{d.id}}{% endraw %}" lay-skin="switch" lay-text="开启|关闭" lay-filter="switch_{{field.DbColumnName}}" {% raw %}{{{% endraw %} d.{{field.DbColumnName}} ? 'checked' : '' {% raw %}}}{% endraw %}>
 </script>
 {% endif %}{% endfor %}
+

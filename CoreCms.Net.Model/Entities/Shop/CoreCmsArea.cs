@@ -67,3 +67,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Int32 sort { get; set; }
     }
 }
+// 944413

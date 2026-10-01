@@ -26,3 +26,4 @@ namespace CoreCms.Net.Model.Entities
         public string statusStr { get; set; }
     }
 }
+// 8e45c9

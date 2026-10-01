@@ -66,3 +66,5 @@ namespace CoreCms.Net.Caching.SqlSugar
     }
 
 }
+
+// 25861b

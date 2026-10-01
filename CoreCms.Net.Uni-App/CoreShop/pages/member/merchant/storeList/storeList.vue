@@ -97,3 +97,4 @@
 <style lang="scss" scoped>
     @import "storeList.scss";
 </style>
+

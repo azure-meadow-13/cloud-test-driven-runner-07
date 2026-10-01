@@ -46,3 +46,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Int32? goodsCategroyId { get; set; }
     }
 }
+// ac2a43

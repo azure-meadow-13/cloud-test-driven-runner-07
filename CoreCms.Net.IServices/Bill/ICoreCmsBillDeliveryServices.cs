@@ -77,3 +77,4 @@ namespace CoreCms.Net.IServices
         Task<List<StatisticsOut>> Statistics();
     }
 }
+// c0855b

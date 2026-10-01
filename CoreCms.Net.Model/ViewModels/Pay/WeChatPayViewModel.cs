@@ -307,3 +307,4 @@ namespace CoreCms.Net.Model.ViewModels.Pay
         public string PartnerTradeNo { get; set; }
     }
 }
+// ee7e00

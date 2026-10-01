@@ -85,3 +85,4 @@ namespace CoreCms.Net.IRepository
         #endregion
     }
 }
+// 1c0599

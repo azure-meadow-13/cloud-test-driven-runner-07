@@ -566,3 +566,4 @@ const install = (Vue, vm) => {
 export default {
     install
 }
+// e57565

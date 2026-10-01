@@ -56,3 +56,4 @@ namespace CoreCms.Net.IServices
         Task<bool> Check(string phone, string verCode, string code);
     }
 }
+// aaf1c5

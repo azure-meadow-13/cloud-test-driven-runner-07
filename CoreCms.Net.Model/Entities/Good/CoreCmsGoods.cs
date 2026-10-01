@@ -245,3 +245,4 @@ namespace CoreCms.Net.Model.Entities
         public bool isDel { get; set; }
     }
 }
+// 1216ce

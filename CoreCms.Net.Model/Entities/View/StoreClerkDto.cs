@@ -70,3 +70,4 @@ namespace CoreCms.Net.Model.Entities
         public string avatarImage { get; set; }
     }
 }
+// 55340d

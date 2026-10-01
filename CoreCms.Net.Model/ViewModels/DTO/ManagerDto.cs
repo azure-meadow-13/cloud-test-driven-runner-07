@@ -41,3 +41,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO
         public string Description { get; set; }
     }
 }
+// d83671

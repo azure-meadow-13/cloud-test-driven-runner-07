@@ -25,3 +25,4 @@ namespace CoreCms.Net.Model.ViewModels.LogInfo
         public int Import { get; set; } = 0;
     }
 }
+// 6e84e2

@@ -30,3 +30,4 @@ namespace CoreCms.Net.IServices
         Task<WebApiCallBack> SendMessage(int userId, string code, JObject parameters);
     }
 }
+// d45911

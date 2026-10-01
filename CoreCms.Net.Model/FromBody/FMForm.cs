@@ -70,3 +70,4 @@ namespace CoreCms.Net.Model.FromBody
         public decimal price { get; set; }
     }
 }
+// 318582

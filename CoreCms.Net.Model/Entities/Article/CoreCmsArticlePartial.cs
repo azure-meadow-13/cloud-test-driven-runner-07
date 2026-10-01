@@ -44,3 +44,5 @@ namespace CoreCms.Net.Model.Entities
         public CoreCmsArticle downArticle { get; set; }
     }
 }
+
+// 40a303

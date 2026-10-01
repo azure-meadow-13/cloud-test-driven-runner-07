@@ -68,3 +68,4 @@ namespace CoreCms.Net.Model.Entities
         public System.String formItemValue { get; set; }
     }
 }
+// 6c0679

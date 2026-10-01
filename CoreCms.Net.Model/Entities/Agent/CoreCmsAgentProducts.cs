@@ -103,3 +103,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Boolean isDel { get; set; }
     }
 }
+// f97fcc

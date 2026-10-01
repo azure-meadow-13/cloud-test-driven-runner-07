@@ -87,3 +87,4 @@ namespace CoreCms.Net.IServices
         Task<IPageList<DistributionRankingDTO>> QueryRankingPageAsync(int pageIndex = 1, int pageSize = 20);
     }
 }
+// 424b57

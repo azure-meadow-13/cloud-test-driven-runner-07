@@ -30,3 +30,5 @@ function throttle(func, wait = 500, immediate = true) {
 	}
 };
 export default throttle
+
+// fb35c3

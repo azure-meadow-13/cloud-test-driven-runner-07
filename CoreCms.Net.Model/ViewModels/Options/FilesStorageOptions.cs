@@ -82,3 +82,4 @@ namespace CoreCms.Net.Model.ViewModels.Options
         public int MaxSize { get; set; } = 20;
     }
 }
+// 81332b

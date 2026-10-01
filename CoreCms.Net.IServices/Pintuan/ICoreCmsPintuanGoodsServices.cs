@@ -25,3 +25,4 @@ namespace CoreCms.Net.IServices
         Task<CoreCmsGoods> GetGoodsInfo(int id, int userId, int pinTuanStatus = 0);
     }
 }
+// fa2d47

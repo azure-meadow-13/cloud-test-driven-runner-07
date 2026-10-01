@@ -105,3 +105,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO
         public List<string> results { get; set; } = new();
     }
 }
+// 9d2238

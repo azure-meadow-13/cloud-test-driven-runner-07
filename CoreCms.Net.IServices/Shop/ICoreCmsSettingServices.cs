@@ -51,3 +51,4 @@ namespace CoreCms.Net.IServices
         Task<SMSOptions> GetSmsOptions();
     }
 }
+// 3719b2

@@ -161,3 +161,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Decimal money { get; set; }
     }
 }
+// 259205

@@ -22,3 +22,4 @@ namespace CoreCms.Net.Model.ViewModels.QueryMuch
         public int type { get; set; }
     }
 }
+// 6c5743

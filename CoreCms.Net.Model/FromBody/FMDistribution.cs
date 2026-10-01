@@ -36,3 +36,4 @@ namespace CoreCms.Net.Model.FromBody
         public string storeName { get; set; }
     }
 }
+// e22699

@@ -566,3 +566,4 @@
 <style lang="scss" scoped>
     @import 'member.scss';
 </style>
+

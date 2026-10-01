@@ -141,3 +141,5 @@ namespace CoreCms.Net.Caching.AutoMate.RedisCache
 
     }
 }
+
+// bd4758

@@ -68,3 +68,4 @@ const install = (Vue, vm) => {
 export default {
     install
 }
+// 3eb4fe

@@ -5,3 +5,5 @@ function randomArray(array = []) {
 }
 
 export default randomArray
+
+// bba844

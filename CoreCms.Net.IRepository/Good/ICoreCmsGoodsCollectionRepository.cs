@@ -48,3 +48,4 @@ namespace CoreCms.Net.IRepository
         Task<WebApiCallBack> ToAdd(int userId, int goodsId);
     }
 }
+// 6f1ad6

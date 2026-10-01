@@ -27,3 +27,4 @@ namespace CoreCms.Net.IRepository
         Task<List<StatisticsOut>> Statistics();
     }
 }
+// 0d1122

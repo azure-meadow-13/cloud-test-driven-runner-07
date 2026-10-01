@@ -161,3 +161,4 @@ namespace CoreCms.Net.Model.Entities
         public DateTime? updateTime { get; set; }
     }
 }
+// d4de1c

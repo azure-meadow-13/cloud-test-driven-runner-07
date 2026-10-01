@@ -26,3 +26,4 @@ namespace CoreCms.Net.Model.Entities
         public string gradeName { get; set; }
     }
 }
+// 6a60d7

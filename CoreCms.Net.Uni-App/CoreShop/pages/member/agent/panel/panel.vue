@@ -219,3 +219,4 @@
 <style lang="scss" scoped>
     @import "panel.scss";
 </style>
+

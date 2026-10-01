@@ -66,3 +66,4 @@ namespace CoreCms.Net.IServices
         #endregion
     }
 }
+// 40f1c3

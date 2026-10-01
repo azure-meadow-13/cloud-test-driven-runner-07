@@ -59,3 +59,4 @@ namespace CoreCms.Net.Model.Entities
         public string value { get; set; }
     }
 }
+// f532a1

@@ -36,3 +36,4 @@ namespace CoreCms.Net.WeChat.Service.Models
         public string Data { get; set; } = "success";
     }
 }
+// f8e611

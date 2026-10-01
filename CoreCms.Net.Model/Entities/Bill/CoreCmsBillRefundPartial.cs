@@ -37,3 +37,4 @@ namespace CoreCms.Net.Model.Entities
         public string userNickName { get; set; }
     }
 }
+// 236388

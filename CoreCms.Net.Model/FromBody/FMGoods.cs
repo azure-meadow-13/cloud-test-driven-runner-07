@@ -121,3 +121,4 @@ namespace CoreCms.Net.Model.FromBody
         public int groupId { get; set; } = 0;
     }
 }
+// e39242

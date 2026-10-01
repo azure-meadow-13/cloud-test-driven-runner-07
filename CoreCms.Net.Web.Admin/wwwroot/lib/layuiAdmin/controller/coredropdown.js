@@ -106,3 +106,4 @@ layui.define(["jquery"], function (f) {
         }
     }; o.init(); f("coredropdown", o)
 });
+// 805e02

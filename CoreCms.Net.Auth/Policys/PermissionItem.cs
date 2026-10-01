@@ -38,3 +38,5 @@ namespace CoreCms.Net.Auth.Policys
         public virtual string RouteUrl { get; set; }
     }
 }
+
+// d719ff

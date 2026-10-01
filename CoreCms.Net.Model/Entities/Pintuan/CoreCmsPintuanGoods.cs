@@ -41,3 +41,4 @@ namespace CoreCms.Net.Model.Entities
         public System.Int32 goodsId { get; set; }
     }
 }
+// 4f2797

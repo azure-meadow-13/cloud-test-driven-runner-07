@@ -36,3 +36,4 @@ namespace CoreCms.Net.Model.ViewModels.Basics
         public int second { get; set; } = 0;
     }
 }
+// 5bc821

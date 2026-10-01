@@ -39,3 +39,4 @@ namespace CoreCms.Net.Model.Entities
         [SugarColumn(IsIgnore = true)] public object promotionObj { get; set; }
     }
 }
+// b0a50e

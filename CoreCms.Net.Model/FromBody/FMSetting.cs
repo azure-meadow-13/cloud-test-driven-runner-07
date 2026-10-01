@@ -25,3 +25,4 @@ namespace CoreCms.Net.Model.FromBody
         public List<DictionaryKeyValues> entity { get; set; }
     }
 }
+// 6fd166

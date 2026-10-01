@@ -39,3 +39,5 @@ function guid(len = 32, firstU = true, radix = null) {
 }
 
 export default guid;
+
+// 6b16bd

@@ -51,3 +51,4 @@ namespace CoreCms.Net.IServices
             int pageSize = 20);
     }
 }
+// b7e482

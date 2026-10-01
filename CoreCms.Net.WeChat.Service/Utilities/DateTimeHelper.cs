@@ -60,3 +60,5 @@ namespace CoreCms.Net.WeChat.Service.Utilities
         public static long GetUnixDateTime(DateTime dateTime) => (long)((DateTimeOffset)dateTime.ToUniversalTime() - DateTimeHelper.BaseTime).TotalSeconds;
     }
 }
+
+// fa8e65

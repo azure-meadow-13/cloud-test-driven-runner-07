@@ -10,3 +10,5 @@
         void Set(string cacheKey, object cacheValue, int timeSpan);
     }
 }
+
+// 884c18

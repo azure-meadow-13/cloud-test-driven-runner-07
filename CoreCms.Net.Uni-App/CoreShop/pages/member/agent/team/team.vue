@@ -225,3 +225,4 @@
 <style lang="scss">
     @import "team.scss";
 </style>
+

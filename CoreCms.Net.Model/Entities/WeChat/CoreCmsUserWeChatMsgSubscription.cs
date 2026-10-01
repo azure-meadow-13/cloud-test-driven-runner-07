@@ -57,3 +57,4 @@ namespace CoreCms.Net.Model.Entities
         public System.String type { get; set; }
     }
 }
+// bdd5c2

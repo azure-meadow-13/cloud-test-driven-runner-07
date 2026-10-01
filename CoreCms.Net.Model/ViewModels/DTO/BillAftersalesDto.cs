@@ -25,3 +25,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO
         public List<CoreCmsBillAftersales> billAftersales { get; set; } = new();
     }
 }
+// 13dec1

@@ -55,3 +55,5 @@ namespace CoreCms.Net.Repository
         #endregion
     }
 }
+
+// 9a5419

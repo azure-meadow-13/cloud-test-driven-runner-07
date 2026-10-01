@@ -61,3 +61,4 @@ namespace CoreCms.Net.IRepository
         Task<List<StatisticsOut>> StatisticsOrder(int day);
     }
 }
+// aaf091

@@ -83,3 +83,4 @@ namespace CoreCms.Net.Model.Entities
         public System.String description { get; set; }
     }
 }
+// e11174

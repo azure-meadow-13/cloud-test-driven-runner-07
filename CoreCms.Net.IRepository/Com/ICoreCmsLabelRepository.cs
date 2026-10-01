@@ -19,3 +19,4 @@ namespace CoreCms.Net.IRepository
     {
     }
 }
+// 6e9304

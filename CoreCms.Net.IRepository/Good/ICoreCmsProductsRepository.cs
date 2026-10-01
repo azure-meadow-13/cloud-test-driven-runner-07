@@ -61,3 +61,4 @@ namespace CoreCms.Net.IRepository
         Task<List<CoreCmsProducts>> GetProducts(int goodId = 0);
     }
 }
+// 54f120

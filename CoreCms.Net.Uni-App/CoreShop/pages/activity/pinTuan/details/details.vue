@@ -1053,3 +1053,4 @@
 <style lang="scss">
     @import "details.scss";
 </style>
+

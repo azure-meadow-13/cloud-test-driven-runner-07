@@ -75,3 +75,4 @@ namespace CoreCms.Net.IServices
         Task<WebApiCallBack> GetBankcardInfo(int userId, int id);
     }
 }
+// d44966

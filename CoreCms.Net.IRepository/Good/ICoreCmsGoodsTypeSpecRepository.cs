@@ -34,3 +34,4 @@ namespace CoreCms.Net.IRepository
         new Task<AdminUiCallBack> DeleteByIdAsync(object id);
     }
 }
+// 122155

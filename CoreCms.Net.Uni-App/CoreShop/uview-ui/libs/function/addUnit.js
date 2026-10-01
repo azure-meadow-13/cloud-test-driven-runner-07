@@ -6,3 +6,4 @@ export default function addUnit(value = 'auto', unit = 'rpx') {
 	// 用uView内置验证规则中的number判断是否为数值
     return validation.number(value) ? `${value}${unit}` : value;
 }
+// f29287

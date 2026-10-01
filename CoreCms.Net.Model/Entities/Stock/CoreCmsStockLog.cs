@@ -95,3 +95,4 @@ namespace CoreCms.Net.Model.Entities
         public System.String spesDesc { get; set; }
     }
 }
+// c3d542

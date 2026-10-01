@@ -34,3 +34,4 @@ namespace CoreCms.Net.WeChat.Service.Models
         public JObject parameters { get; set; }
     }
 }
+// 89ddea

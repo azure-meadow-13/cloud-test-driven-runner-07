@@ -35,3 +35,4 @@ namespace CoreCms.Net.IServices
         new Task<AdminUiCallBack> UpdateAsync(CoreCmsUserShip entity);
     }
 }
+// e6805a

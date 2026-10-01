@@ -54,3 +54,4 @@ namespace CoreCms.Net.Model.Entities
         public string goodName { get; set; }
     }
 }
+// a4ed87

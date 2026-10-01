@@ -627,3 +627,5 @@ namespace CoreCms.Net.CodeGenerator
 
     }
 }
+
+// a5c768

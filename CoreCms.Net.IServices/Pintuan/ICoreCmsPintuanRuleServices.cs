@@ -62,3 +62,4 @@ namespace CoreCms.Net.IServices
         Task<TagPinTuanResult> GetPinTuanInfo(int goodId);
     }
 }
+// 637cc1

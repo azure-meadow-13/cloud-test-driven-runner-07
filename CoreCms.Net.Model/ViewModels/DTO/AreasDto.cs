@@ -36,3 +36,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO
         public List<CoreCmsArea> list { get; set; } = new();
     }
 }
+// d47684

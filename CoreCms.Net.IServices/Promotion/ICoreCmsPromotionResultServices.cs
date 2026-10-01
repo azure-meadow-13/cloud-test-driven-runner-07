@@ -77,3 +77,4 @@ namespace CoreCms.Net.IServices
         decimal result_GOODS_ONE_PRICE(JObject parameters, CartProducts cartProducts, CoreCmsPromotion promotionInfo);
     }
 }
+// bae403

@@ -41,3 +41,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO.Distribution
         public decimal orderCount { get; set; }
     }
 }
+// 501825

@@ -21,3 +21,4 @@ namespace CoreCms.Net.IServices
         Task<string> GetUserRoleNameStr(string loginName, string loginPwd);
     }
 }
+// 9e850a

@@ -13,3 +13,5 @@ function trim(str, pos = 'both') {
 }
 
 export default trim
+
+// c8aa75

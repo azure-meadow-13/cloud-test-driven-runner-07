@@ -41,3 +41,4 @@ namespace CoreCms.Net.Model.Entities
         public List<string> consumableStores { get; set; }
     }
 }
+// 1e1a2f

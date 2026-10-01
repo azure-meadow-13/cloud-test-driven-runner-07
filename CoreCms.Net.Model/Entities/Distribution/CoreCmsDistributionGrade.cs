@@ -69,3 +69,4 @@ namespace CoreCms.Net.Model.Entities
         public System.String description { get; set; }
     }
 }
+// 7c7cc6

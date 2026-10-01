@@ -61,3 +61,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO
         public string imageUrl { get; set; }
     }
 }
+// 6c4a05

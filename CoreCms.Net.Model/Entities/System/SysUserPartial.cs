@@ -43,3 +43,4 @@ namespace CoreCms.Net.Model.Entities
         public string organizationName { get; set; }
     }
 }
+// 4981f1

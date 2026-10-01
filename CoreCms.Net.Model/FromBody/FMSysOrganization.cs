@@ -16,3 +16,4 @@ namespace CoreCms.Net.Model.FromBody
         public int organizationId { get; set; }
     }
 }
+// 784aa4

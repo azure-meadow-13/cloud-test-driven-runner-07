@@ -35,3 +35,4 @@ let color = {
 }
 
 export default color;
+// 19f83e

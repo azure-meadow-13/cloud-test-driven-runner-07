@@ -24,3 +24,4 @@ namespace CoreCms.Net.Model.Entities
         public object areaFeeObj { get; set; } = null;
     }
 }
+// 2d9b99

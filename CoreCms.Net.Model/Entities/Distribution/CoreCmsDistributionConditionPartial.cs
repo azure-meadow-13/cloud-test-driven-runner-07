@@ -26,3 +26,4 @@ namespace CoreCms.Net.Model.Entities
         public string name { get; set; }
     }
 }
+// 91a249

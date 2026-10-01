@@ -57,3 +57,4 @@ namespace CoreCms.Net.Model.Entities
         public List<CoreCmsPromotionResult> results { get; set; }
     }
 }
+// 91c4cc

@@ -95,3 +95,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO
         public string goodsImage { get; set; }
     }
 }
+// 14eb58

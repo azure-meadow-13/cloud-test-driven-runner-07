@@ -62,3 +62,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO
         public object parameters { get; set; }
     }
 }
+// d5c4ea

@@ -85,3 +85,4 @@
 <style lang="scss" scoped>
     @import "rankings.scss";
 </style>
+

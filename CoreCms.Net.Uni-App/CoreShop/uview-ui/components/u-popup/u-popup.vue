@@ -454,3 +454,4 @@ export default {
 	bottom: 30rpx;
 }
 </style>
+

@@ -50,3 +50,5 @@ namespace CoreCms.Net.Model.Entities
 
     }
 }
+
+// 2a5832

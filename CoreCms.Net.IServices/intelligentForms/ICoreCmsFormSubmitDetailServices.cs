@@ -19,3 +19,4 @@ namespace CoreCms.Net.IServices
     {
     }
 }
+// ba3ade

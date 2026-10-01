@@ -99,3 +99,4 @@ namespace CoreCms.Net.Model.Entities
         public System.DateTime createTime { get; set; }
     }
 }
+// 15d3f3

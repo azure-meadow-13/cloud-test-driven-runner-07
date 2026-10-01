@@ -64,3 +64,4 @@ namespace CoreCms.Net.IRepository
         Task<CoreCmsStore> GetStoreByUserId(int userId, bool blUseNoLock = false);
     }
 }
+// 48465a

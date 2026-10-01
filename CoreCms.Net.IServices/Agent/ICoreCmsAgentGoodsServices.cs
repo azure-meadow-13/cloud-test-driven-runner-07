@@ -83,3 +83,5 @@ namespace CoreCms.Net.IServices
         #endregion
     }
 }
+
+// 08cf65

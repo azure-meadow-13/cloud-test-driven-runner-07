@@ -235,3 +235,5 @@ namespace CoreCms.Net.Repository
         #endregion
     }
 }
+
+// caafa7

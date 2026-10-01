@@ -36,3 +36,4 @@ namespace CoreCms.Net.Model.ViewModels.Basics
         public DbObjectType DbObjectType { get; set; }
     }
 }
+// 685071

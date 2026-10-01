@@ -54,3 +54,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO
         public decimal discount { get; set; }
     }
 }
+// b62494

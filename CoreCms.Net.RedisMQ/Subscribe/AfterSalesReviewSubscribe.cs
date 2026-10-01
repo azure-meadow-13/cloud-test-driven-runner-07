@@ -69,3 +69,5 @@ namespace CoreCms.Net.RedisMQ.Subscribe
 
     }
 }
+
+// efe29f

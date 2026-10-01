@@ -21,3 +21,5 @@ namespace CoreCms.Net.WeChat.Service.HttpClients
         WechatApiClient CreateWxOpenClient();
     }
 }
+
+// c06310

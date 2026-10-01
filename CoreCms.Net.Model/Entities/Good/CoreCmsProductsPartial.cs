@@ -143,3 +143,4 @@ namespace CoreCms.Net.Model.Entities
         public decimal levelThree { get; set; } = 0;
     }
 }
+// 8bbec4

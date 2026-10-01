@@ -54,3 +54,5 @@ namespace CoreCms.Net.Auth.Policys
         CODE500
     }
 }
+
+// f6c8f5

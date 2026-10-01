@@ -280,3 +280,4 @@
         .coreshop-checked { transform: scale(0.7); }
     }
 </style>
+

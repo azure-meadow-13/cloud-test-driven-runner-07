@@ -34,3 +34,4 @@ namespace CoreCms.Net.Model.Entities
         public bool isCollection { get; set; }
     }
 }
+// 5d8b31

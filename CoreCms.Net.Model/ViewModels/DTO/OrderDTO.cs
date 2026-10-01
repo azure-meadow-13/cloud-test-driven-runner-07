@@ -443,3 +443,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO
         public decimal refund { get; set; } = 0;
     }
 }
+// 2366f5

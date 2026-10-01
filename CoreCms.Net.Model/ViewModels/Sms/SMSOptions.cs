@@ -47,3 +47,4 @@ namespace CoreCms.Net.Model.ViewModels.Sms
         public string Signature { get; set; }
     }
 }
+// aacab8

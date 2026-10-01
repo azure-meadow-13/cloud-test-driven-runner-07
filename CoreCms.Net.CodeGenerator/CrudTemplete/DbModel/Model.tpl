@@ -83,3 +83,4 @@ namespace CoreCms.Net.Model.Entities
 		{% endfor %}
     }
 }
+

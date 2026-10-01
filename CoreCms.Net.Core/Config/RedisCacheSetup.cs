@@ -37,3 +37,5 @@ namespace CoreCms.Net.Core.Config
         }
     }
 }
+
+// cf6965
