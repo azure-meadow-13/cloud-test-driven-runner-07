@@ -45,3 +45,5 @@ namespace CoreCms.Net.Model.ViewModels.DTO
     }
 }
 // 7fe5b7
+
+// 04ed42

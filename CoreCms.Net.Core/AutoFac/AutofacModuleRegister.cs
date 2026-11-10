@@ -82,3 +82,5 @@ namespace CoreCms.Net.Core.AutoFac
 }
 
 // 98c03a
+
+// 7c58d6

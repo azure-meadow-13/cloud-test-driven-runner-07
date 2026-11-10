@@ -877,3 +877,4 @@
     @import 'details.scss';
 </style>
 
+

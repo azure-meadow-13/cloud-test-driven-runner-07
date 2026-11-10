@@ -215,3 +215,4 @@
     .coreshop-avatar { background: #fff; }
 </style>
 
+

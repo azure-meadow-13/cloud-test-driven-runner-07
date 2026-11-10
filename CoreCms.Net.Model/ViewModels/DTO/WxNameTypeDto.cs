@@ -22,3 +22,5 @@ namespace CoreCms.Net.Model.ViewModels.DTO
     }
 }
 // 5f1578
+
+// 7cc684

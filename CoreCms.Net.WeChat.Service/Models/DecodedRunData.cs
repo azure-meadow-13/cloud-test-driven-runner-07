@@ -32,3 +32,5 @@ namespace CoreCms.Net.WeChat.Service.Models
 }
 
 // fe6645
+
+// 4da91a

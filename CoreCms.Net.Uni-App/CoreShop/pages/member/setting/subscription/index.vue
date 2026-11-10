@@ -140,3 +140,4 @@
     .subscription-btn { background-color: #333333; color: #ffffff; padding: 0 20rpx; line-height: 46rpx; margin-right: 20rpx; border: 1px solid #333333; }
     .isTrue { background-color: #ffffff; border: 1px solid #333333; color: #333333; line-height: 46rpx; }
 </style>
+

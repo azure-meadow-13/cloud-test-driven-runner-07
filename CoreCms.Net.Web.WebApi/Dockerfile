@@ -12,3 +12,4 @@ RUN sed -i 's/MinProtocol = TLSv1.2/MinProtocol = TLSv1/g' /etc/ssl/openssl.cnf
 RUN sed -i 's/MinProtocol = TLSv1.2/MinProtocol = TLSv1/g' /usr/lib/ssl/openssl.cnf
 
 ENTRYPOINT ["dotnet", "CoreCms.Net.Web.WebApi.dll"]
+

@@ -38,3 +38,5 @@ layui.define('echartsTheme', function(exports){
   exports('echarts', echarts);
 });
 // eecffd
+
+// 60d3b7

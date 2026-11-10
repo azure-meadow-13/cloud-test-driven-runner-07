@@ -11,3 +11,4 @@ COPY ./ /app
 ENV TZ=Asia/Shanghai
 
 ENTRYPOINT ["dotnet", "CoreCms.Net.Web.Admin.dll"]
+

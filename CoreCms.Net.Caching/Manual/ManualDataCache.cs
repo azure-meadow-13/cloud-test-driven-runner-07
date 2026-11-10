@@ -51,3 +51,5 @@ namespace CoreCms.Net.Caching.Manual
 }
 
 // 8302e8
+
+// a49bb3

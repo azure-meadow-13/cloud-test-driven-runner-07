@@ -80,3 +80,5 @@ Object.assign(cfg.trustTags, makeMap('embed,iframe'));
 module.exports = cfg;
 
 // 8563cb
+
+// a18b40

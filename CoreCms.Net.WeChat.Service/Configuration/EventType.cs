@@ -71,3 +71,5 @@ namespace CoreCms.Net.WeChat.Service.Configuration
     }
 }
 // 86f627
+
+// f1e6a0

@@ -29,3 +29,5 @@ namespace CoreCms.Net.Auth.HttpContextUser
 }
 
 // 487cbb
+
+// 9a724a

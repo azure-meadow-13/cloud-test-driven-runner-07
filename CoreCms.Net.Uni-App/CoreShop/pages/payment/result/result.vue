@@ -102,3 +102,4 @@
 <style lang="scss">
     @import 'result.scss';
 </style>
+

@@ -30,3 +30,5 @@ namespace CoreCms.Net.Model.ViewModels.Basics
     }
 }
 // c76102
+
+// 1ea96a

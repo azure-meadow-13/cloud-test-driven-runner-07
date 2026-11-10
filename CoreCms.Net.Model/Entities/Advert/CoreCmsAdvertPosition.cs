@@ -77,3 +77,5 @@ namespace CoreCms.Net.Model.Entities
     }
 }
 // eaa0f3
+
+// 647d07

@@ -289,3 +289,5 @@ namespace CoreCms.Net.WeChat.Service.Enums
 }
 
 // 58759e
+
+// da9a90

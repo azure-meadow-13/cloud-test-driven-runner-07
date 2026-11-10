@@ -20,3 +20,5 @@ namespace CoreCms.Net.IServices
     }
 }
 // ba3ade
+
+// 60598a

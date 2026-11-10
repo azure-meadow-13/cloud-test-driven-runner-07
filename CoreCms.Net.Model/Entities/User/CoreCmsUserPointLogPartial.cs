@@ -27,3 +27,5 @@ namespace CoreCms.Net.Model.Entities
     }
 }
 // aa1ed7
+
+// 9f6529

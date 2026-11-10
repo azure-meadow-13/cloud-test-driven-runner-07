@@ -254,3 +254,4 @@
 <style lang="scss" scoped>
     @import "invitationGroup.scss";
 </style>
+

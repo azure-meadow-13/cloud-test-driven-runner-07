@@ -491,3 +491,4 @@
 <style lang="scss" scoped>
     @import "detail.scss";
 </style>
+

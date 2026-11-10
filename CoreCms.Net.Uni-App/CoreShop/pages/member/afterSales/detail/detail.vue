@@ -345,3 +345,4 @@
     @import "detail.scss";
 </style>
 
+

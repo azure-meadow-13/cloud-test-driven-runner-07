@@ -75,3 +75,5 @@ const store = new Vuex.Store({
 export default store
 
 // b508f9
+
+// df6788

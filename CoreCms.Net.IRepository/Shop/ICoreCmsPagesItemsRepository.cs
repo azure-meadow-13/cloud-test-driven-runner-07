@@ -20,3 +20,5 @@ namespace CoreCms.Net.IRepository
     }
 }
 // 77101b
+
+// bc41c5

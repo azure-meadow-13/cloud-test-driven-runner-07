@@ -67,3 +67,5 @@ namespace CoreCms.Net.WeChat.Service.Mediator
 }
 
 // 6fb686
+
+// 84a225

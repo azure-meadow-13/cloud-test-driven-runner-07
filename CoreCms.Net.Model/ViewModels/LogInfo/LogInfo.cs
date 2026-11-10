@@ -26,3 +26,5 @@ namespace CoreCms.Net.Model.ViewModels.LogInfo
     }
 }
 // 6e84e2
+
+// 64bf81

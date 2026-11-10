@@ -152,3 +152,5 @@ data: clickInfo.concat($(this).serializeArray())
 }(jQuery));
 
 // 917a89
+
+// 56c9b7
